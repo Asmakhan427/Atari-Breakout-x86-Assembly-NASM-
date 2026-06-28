@@ -15,10 +15,6 @@
 - Paddle movement using keyboard input
 - Real-time ball movement
 - Brick collision detection
-- Score tracking system
-- Life management system
-- Game Over and Win screens
-- Sound effects using BIOS/DOS interrupts
 
 ---
 
